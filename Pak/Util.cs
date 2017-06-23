@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright company="Divinitor" file="Util.cs">
+//   MIT License. See LICENSE file.
+// </copyright>
+// --------------------------------------------------------------------------------------------------------------------
+
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Divinitor.DN.Subfile.Pak
 {

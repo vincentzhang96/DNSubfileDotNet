@@ -1,11 +1,7 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright company="Divinitor" file="PakStruct.cs">
-//   MIT License.
+//   MIT License. See LICENSE file.
 // </copyright>
-// <summary>
-//   Contains various Pak-related structs
-// </summary>
-// 
 // --------------------------------------------------------------------------------------------------------------------
 
 namespace Divinitor.DN.Subfile.Pak

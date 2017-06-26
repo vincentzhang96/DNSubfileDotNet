@@ -4,7 +4,6 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-
 using System.Collections.Generic;
 
 namespace Divinitor.DN.Subfile.Pak
